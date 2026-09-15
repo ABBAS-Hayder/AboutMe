@@ -8,5 +8,3 @@ I'm ABBAS From Iraq <br><br>I like the  Cybersecurity & i learn The Cyber Just F
 # Tech Stats:
 ![](https://streak-stats.demolab.com/?user=ABBAS-Hayder&theme=highcontrast&hide_border=false)<br/>
 
-
----
